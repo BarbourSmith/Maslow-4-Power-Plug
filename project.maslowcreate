@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Body",
-            "x": 171,
-            "y": 78,
+            "x": 168,
+            "y": 73,
             "uniqueID": 204006,
             "ioValues": [],
             "topLevel": false,
@@ -119,7 +119,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -214,7 +214,7 @@
                     "y": 153,
                     "uniqueID": 261274,
                     "ioValues": [],
-                    "selectedColorIndex": "9"
+                    "selectedColorIndex": "10"
                 },
                 {
                     "atomType": "Translate",
@@ -270,15 +270,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 396421",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 113530",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 596474",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 396421",
                             "ioValue": 10
                         }
                     ],
@@ -288,7 +288,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -349,8 +349,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Body",
-                    "x": 171,
-                    "y": 78,
+                    "x": 168,
+                    "y": 73,
                     "uniqueID": 204006,
                     "ioValues": []
                 },
@@ -374,15 +374,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 369666",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 885557",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 248804",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 369666",
                             "ioValue": 10
                         }
                     ],
@@ -407,7 +407,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
